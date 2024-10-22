@@ -7,24 +7,23 @@ I collected them from the Internet for easy access. Remember, I'm not in charge 
 Last Updated: `Tuesday 22-10-2024 12:25:10 UTC`  
 Total Proxies: `8310`  
 
-## DOWNLOAD
+## AUTO INSTALLE
 
-- **SOCKS5**
+- **REVO-PSTF**
 
 ```bash
-https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
+sudo apt-get update
+sudo apt-get install shc
 ```
 
-- **SOCKS4**
-
 ```bash
-https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt
+shc -f setup_mailer.sh
 ```
 
-- **HTTP**
+- **LANCE**
 
 ```bash
-https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
+./setup_mailer.sh.x
 ```
 
 ## NOTES
