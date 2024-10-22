@@ -3,15 +3,9 @@
 
 
 
-# REVO-PSTF-PUB
-3ISH ACANISH Okheli review ola star 
-
-HOW TO RUN INSTALLER
-
-sudo apt-get update
-sudo apt-get install shc
--------------------------
-shc -f setup_mailer.sh
------------------------------
-./setup_mailer.sh.x
----------------------------------------
+SOCKS5
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
+SOCKS4
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt
+HTTP
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
