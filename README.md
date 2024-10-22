@@ -14,7 +14,11 @@ Total Send Number: `Dependent Your Account`
 sudo apt-get update
 sudo apt-get install shc
 ```
+- **IMPORT TOOL**
 
+```bash
+git clone https://github.com/REVOTRACK/REVO-PSTF-PUB.git
+```
 ```bash
 shc -f setup_mailer.sh
 ```
@@ -22,6 +26,7 @@ shc -f setup_mailer.sh
 - **RUN INSTALLER**
 
 ```bash
+chmod +x setup_mailer.sh.x
 ./setup_mailer.sh.x
 ```
 
